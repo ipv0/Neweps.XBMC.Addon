@@ -1,0 +1,14 @@
+NewEps - XBMC plugin
+
+(Work in progress)
+(though the plugin works fine in my xbmc and used on a weekly basis)
+
+Useful when automatic RSS downloading is set up in the torrent client for TV episodes, set
+to save in a given directory.
+
+Script checks the given directory for downloaded tv episodes, lists them, parses (scene release) names, loads episode info from TheTVDB.
+
+Playing an episode removes it from the list as watched (with an option to restore and others)
+
+As the result, the plugin shows unwatched episodes + the new ones that were automatically
+added by the torrent client.
