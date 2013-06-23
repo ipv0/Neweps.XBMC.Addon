@@ -1,13 +1,16 @@
 NewEps - XBMC plugin
 
-(Work in progress)
-(though the plugin works fine in my xbmc and used on a weekly basis)
+(Work in progress. Not an official release. Though the plugin works fine 
+on my XBMC installation and used on a weekly basis)
+
+* Goal: One of the steps to a complete torrent-based PVR experience. This plugin is meant to be used 
+in conjunction with a torrent client (like utorrent) that's set up to use RSS downloading (more info below.)
 
 Useful when automatic RSS downloading is set up in the torrent client for TV episodes, set
 to save in a given directory.
 
-Script checks the given directory for downloaded tv episodes, lists them, parses (scene release) names, loads episode info from TheTVDB. The search for episodes is recursive (subdirs are checked)
-
+Script checks the given directory for downloaded tv episodes, lists them, parses (scene release) names, 
+loads episode info from TheTVDB. Search for episodes is recursive (subdirs are checked).
 Playing an episode removes it from the list as watched (with an option to restore and others)
 
 As the result, the plugin shows unwatched episodes + the new ones that were automatically
@@ -35,6 +38,7 @@ to adapt the script to one's particular setup (just the directory name and etc)
 The interface is designed using outdated methods
 The interface doesn't scale properly on different resolutions
 Some context menu options are not yet implemented
+Though it works, at this point the script is highly personalized and not ready for a public release.
 
 
 ====================
