@@ -12,3 +12,24 @@ Playing an episode removes it from the list as watched (with an option to restor
 
 As the result, the plugin shows unwatched episodes + the new ones that were automatically
 added by the torrent client.
+
+=====================
+INSTALLATION:
+=====================
+
+It's a plugin for XBMC, so XBMC has to be installed.
+Go to %APPDATA%\XBMC\addons\
+Create a new folder "neweps"
+And copy all files from this repo into that folder.
+
+It will appear in XBMC under Programs.
+
+
+
+====================
+ISSUES
+====================
+
+The interface is designed using outdated methods
+The interface doesn't scale properly on different resolutions
+Some menu options are not yet implemented
