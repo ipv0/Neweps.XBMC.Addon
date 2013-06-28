@@ -35,12 +35,12 @@ It will appear in XBMC under Programs.
 ISSUES
 ====================
 
-Some constants in one of the source files (default.py) must be edited
+* Some constants in one of the source files (default.py) must be edited
 to adapt the script to one's particular setup (just the directory name and etc)
-The interface is designed using outdated methods
-The interface doesn't scale properly on different resolutions
-Some context menu options are not yet implemented
-Though it works, at this point the script is highly personalized and not ready for a public release.
+* The interface is designed using outdated methods
+* The interface doesn't scale properly on different resolutions
+* Some context menu options are not yet implemented
+* Though it works, at this point the script is highly personalized and not ready for a public release.
 
 
 ====================
